@@ -45,5 +45,5 @@ Szerepkörök
     Vendég:a tárgyfelvételhez szükséges regisztrálást végezheti
     Felhasználó:a vendég szerepkörén túl saját profilja és kurzusai kezelésére képes. 
 ##Használati eset diagram
-![Használati eset](https://github.com/laszlokelemen/alkfejl-bead/usecase.png)
+![Használati eset](https://github.com/laszlokelemen/alkfejl-bead/blob/master/usecase.png)
 
