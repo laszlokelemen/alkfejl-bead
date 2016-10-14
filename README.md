@@ -7,7 +7,7 @@
 - [Oldaltérkép](https://github.com/laszlokelemen/alkfejl-bead#oldaltérkép)
 - [Végpontok](https://github.com/laszlokelemen/alkfejl-bead#végpontok)
 - [Oldalvázlat](https://github.com/laszlokelemen/alkfejl-bead#oldalvázlat)
-- [Adatbázis modell](https://github.com/laszlokelemen/alkfejl-bead#modell)
+- [Adatbázis modell](https://github.com/laszlokelemen/alkfejl-bead#Adatbázis modell)
 
 
 
@@ -107,7 +107,7 @@ Oldalvázlat:
 ![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/miniNeptun.jpg)
 ![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/miniNeptunlogedin.jpg)
 
-##modell
+##Adatbázis modell
 Adatbázis modell:
 ![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/datamodel.png)
     
