@@ -44,8 +44,16 @@ Szerepkörök
 ![Használati eset](https://github.com/laszlokelemen/alkfejl-bead/blob/master/usecase.png)
 
 ##Folyamatok
+Felhasználó:
+
 
  * bejelentkezés:![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/bejelentkezés.png)
  * új kurzus felvétel:![kurzusfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/kurzusfelvetel.png)
+ 
+Vendég:
+ 
+  * regisztrálás:![regisztrálás](https://github.com/laszlokelemen/alkfejl-bead/blob/master/vendeg.png)
+
+
 
 
