@@ -104,8 +104,8 @@ Végpontok:
     
 ##Oldalvázlat
 Oldalvázlat:
-![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/miniNeptun.png)
-![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/miniNeptunloged.png)
+![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/miniNeptun.jpg)
+![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/miniNeptunlogedin.jpg)
 
 ##modell
 Adatbázis modell:
