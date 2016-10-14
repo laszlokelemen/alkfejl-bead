@@ -3,11 +3,7 @@
 - [Szakterületi fogalomjegyzék](https://github.com/laszlokelemen/alkfejl-bead#fogalomjegyzék)
 - [Szerepkörök](https://github.com/laszlokelemen/alkfejl-bead#szerepkörök)
 - [Használati eset diagram](https://github.com/laszlokelemen/alkfejl-bead#használati eset diagram)
-
-
-
-
-
+- [Folyamatok](https://github.com/laszlokelemen/alkfejl-bead#folyamatok)
 
 ##Leírás
 Egy tárgyfelvétel nyilvántartó programot készítek, ahol meglehet fel lehet venni,nézni az 
@@ -46,4 +42,10 @@ Szerepkörök
     Felhasználó:a vendég szerepkörén túl saját profilja és kurzusai kezelésére képes. 
 ##Használati eset diagram
 ![Használati eset](https://github.com/laszlokelemen/alkfejl-bead/blob/master/usecase.png)
+
+##Folyamatok
+
+ * bejelentkezés:![bejelentkezésfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/bejelentkezés.png)
+ * új kurzus felvétel:![kurzusfoly](https://github.com/laszlokelemen/alkfejl-bead/blob/master/kurzusfelvetel.png)
+
 
