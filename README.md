@@ -2,6 +2,8 @@
 - [Követelmények](https://github.com/laszlokelemen/alkfejl-bead#követelmények)
 - [Szakterületi fogalomjegyzék](https://github.com/laszlokelemen/alkfejl-bead#fogalomjegyzék)
 - [Szerepkörök](https://github.com/laszlokelemen/alkfejl-bead#szerepkörök)
+- [Használati eset diagram](https://github.com/laszlokelemen/alkfejl-bead#használati eset diagram)
+
 
 
 
@@ -42,5 +44,6 @@ Szerepkörök
 
     Vendég:a tárgyfelvételhez szükséges regisztrálást végezheti
     Felhasználó:a vendég szerepkörén túl saját profilja és kurzusai kezelésére képes. 
-  
-  
+##Használati eset diagram
+![Használati eset](https://github.com/laszlokelemen/alkfejl-bead/usecase.png)
+
