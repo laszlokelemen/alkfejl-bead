@@ -1,0 +1,1 @@
+- [Leírás](https://github.com/laszlokelemen/alkfejl-bead#leírás)
